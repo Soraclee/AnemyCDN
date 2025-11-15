@@ -20,7 +20,7 @@ All images used by Anemy (anime covers, banners, user avatars, news images, etc.
 Files can be accessed via Statically for fast CDN delivery:
 
 ```
-https://cdn.statically.io/gh/Soraclee/AnemyCDN/main/path/to/image.png
+https://cdn.statically.io/gh/Soraclee/AnemyCDN/main/other/default.png
 ```
 
 ## 🔒 Notes
