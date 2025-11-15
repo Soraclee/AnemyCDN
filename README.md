@@ -26,4 +26,5 @@ https://cdn.statically.io/gh/Soraclee/AnemyCDN/main/other/default.png
 ## 🔒 Notes
 
 This repo is public solely to serve images via CDN.
+
 Images are managed only by the Anemy staff.
